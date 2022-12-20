@@ -10954,7 +10954,7 @@ button {
   margin-bottom: 2em;
 }
 body {
-  background-image: url(./img/bg.png) ;
+  background-image: url('./img/bg.png') ;
   background-size: 70%;
   background-repeat: no-repeat;
   background-size: cover;
